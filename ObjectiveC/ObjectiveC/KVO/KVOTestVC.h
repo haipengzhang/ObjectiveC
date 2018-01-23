@@ -6,7 +6,7 @@
 //  Copyright © 2018年 haipeng. All rights reserved.
 //
 
-/**
+/**https://www.jianshu.com/p/45cbd324ea65
  1.基本监听方式；
  2.手动监听方式；
  3.复合对象监听方式；
